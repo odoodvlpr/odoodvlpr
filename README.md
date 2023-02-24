@@ -1,4 +1,4 @@
-Hi there! I'm an experienced Odoo consultant with a passion for helping businesses streamline their operations and achieve their goals. With over 5 years of experience in the industry, I've worked with clients from various industries, including manufacturing, retail, and e-commerce.
+Hi there! I'm an experienced Odoo consultant with a passion for helping businesses streamline their operations and achieve their goals. With over 4 years of experience in the industry, I've worked with clients from various industries, including manufacturing, retail, and e-commerce.
 
 My expertise lies in implementing and customizing Odoo ERP solutions to meet the unique needs of each client. I'm well-versed in Odoo modules such as sales, inventory, accounting, and manufacturing, and can help businesses optimize their workflows and improve their bottom line.
 
